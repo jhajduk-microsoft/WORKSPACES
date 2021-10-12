@@ -149,7 +149,7 @@ database_high_availability=true
 
 # For M series VMs use the SKU name for instance "M32ts"
 # If using a custom disk sizing populate with the node name for Database you have used in the file db_disk_sizes_filename
-database_size="Standard_E20ds_v4"
+database_size="S4Demo"
 
 #If you want to customise the disk sizes for database VMs use the following parameter to specify the custom sizing file.
 #db_disk_sizes_filename="custom-sizing.json"
