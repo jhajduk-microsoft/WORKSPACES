@@ -48,7 +48,7 @@ deployer_environment="MGMT-2"
 deployer_location="westeurope"
 
 # The deployer_vnet value is a mandatory field, it is used for identifying the deployer
-deployer_vnet="DEM00"
+deployer_vnet="DEP00"
 
 # The use_deployer value is a boolean value indicating if the deployer is used as the deployment engine
 #use_deployer=true
