@@ -42,7 +42,7 @@ location="westeurope"
 
 
 # The deployer_environment value is a mandatory field, it is used for identifying the deployer
-deployer_environment="MGMT-2"
+deployer_environment="MGMT"
 
 # The deployer_location value is a mandatory field, it is used for identifying the deployer
 deployer_location="westeurope"
