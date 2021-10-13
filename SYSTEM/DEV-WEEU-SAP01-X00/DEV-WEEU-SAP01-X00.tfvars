@@ -347,7 +347,7 @@ scs_server_zones=["1","2"]
 # Web Dispatchers
 
 # webdispatcher_server_count defines how many web dispatchers to deploy
-webdispatcher_server_count=2
+webdispatcher_server_count=0
 
 # webdispatcher_server_app_nic_ips, if provided provides the static IP addresses 
 # for the network interface cars connected to the application subnet
